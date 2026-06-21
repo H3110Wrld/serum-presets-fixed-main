@@ -19,3 +19,6 @@ A simple Python script that fixes version compatibility issues for Serum presets
 
    ```bash
    python fix_version.py
+Wait until the script finishes.
+The fixed presets will be saved in a new folder called Presets_Fixed.
+Copy the contents of the Presets_Fixed folder into your main Serum presets library.
